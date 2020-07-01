@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  somewhat_empty_array = [nil, nil, nil, nil]
+  mushroom_kingdom = ["Mario", "Luigi", "Peach", "Toad"]
 end
 
 def add_element_to_end_of_array(array, element)
