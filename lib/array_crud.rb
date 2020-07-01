@@ -15,8 +15,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  boring_array = ["arrays!", nil]
-  boring_array.pop
+  array = ["arrays!", nil]
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
